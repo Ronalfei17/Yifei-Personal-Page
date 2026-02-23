@@ -4,7 +4,7 @@
 
 # Sonic Playground: 沉浸式音频设计项目
 
-**项目负责人：** 刘逸飞、Pranavv Jothinathan、刘肃航、Skyler Sun  
+**项目负责人：** 刘逸飞、Pranavv Jothinathan、刘蘇杭、孙家怡  
 **日期：** 2025年12月12日  
 **平台：** VR (Meta Quest 3) / Unity
 
