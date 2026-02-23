@@ -41,8 +41,10 @@ I am a researcher dedicated to building XR powered by **Generative AI**
 
 ## 🚀 Featured Project
 
-### [Sonic Playground: Immersive Spatial Audio in VR](https://www.bilibili.com/video/BV1KJFvz4ERD)
+### Sonic Playground: Immersive Spatial Audio in VR
 **2025.10 - 2025.12** | Developed an interactive VR exhibition on Meta Quest 3 exploring acoustic physics.
+
+* [Code](https://github.com/Ronalfei17/Yifei-Personal-Page/tree/Sonic-Playground) · [Demo Video 演示视频](https://www.bilibili.com/video/BV1KJFvz4ERD)
 * **Interaction:** Leveraged Meta XR Interaction SDK for precise engagement.
 * **Acoustics:** Integrated **Steam Audio** for real-time sound propagation.
 

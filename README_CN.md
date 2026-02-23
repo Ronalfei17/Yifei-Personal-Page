@@ -41,8 +41,10 @@
 
 ## 🚀 代表项目
 
-### [Sonic Playground: VR 中的沉浸式空间音频](https://www.bilibili.com/video/BV1KJFvz4ERD)
+### Sonic Playground: VR 中的沉浸式空间音频
 **2025.10 - 2025.12** | 在 Meta Quest 3 上开发的交互式 VR 展览，探索声学物理
+
+* [项目代码 Code](https://github.com/Ronalfei17/Yifei-Personal-Page/tree/Sonic-Playground) · [演示视频 Demo Video](https://www.bilibili.com/video/BV1KJFvz4ERD)
 * **交互：** 使用 Meta XR Interaction SDK 实现精准交互
 * **声学：** 集成 **Steam Audio** 实现实时声音传播
 
