@@ -29,7 +29,7 @@ I am a researcher dedicated to building XR powered by **Generative AI**
 
 ## 🧠 Research & Skills
 
-**Core Interests** Generative AI for XR | 3D World Model
+**Core Interests** Generative AI for XR | 3D Computer Vision
 
 **Academic Background**
 * **Shape Lab (Prof. Ruihui Li):** Focused on 3D Point Cloud Completion as a foundation for immersive tech since sophomore year.
