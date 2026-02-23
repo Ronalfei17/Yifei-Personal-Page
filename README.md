@@ -55,7 +55,8 @@ The experience is designed to be exploratory and educational, allowing users to 
 
 **Interaction** XR Interaction Toolkit (supporting Hand Tracking)
 
-**Core Algorithms** 1. Real-time FFT Frequency Analysis  
+**Core Algorithms** 
+1. Real-time FFT Frequency Analysis  
 2. Velocity-based Dynamic Pitch Shifting  
 3. Physics Material Integration
 
