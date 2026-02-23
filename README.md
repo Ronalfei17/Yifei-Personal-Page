@@ -51,7 +51,7 @@ I am a researcher dedicated to building XR powered by **Generative AI**
 ## 🏆 Resilience & Athletics
 
 My background as a competitive athlete and recovery from a major ACL injury have forged a resilient character capable of maintaining intense focus under research pressure.
-* **Champion**, Shenzhen High School Inter-League Football Tournament.
+
 * **Runner-up**, Hunan University Football Cup.
 
 ---
