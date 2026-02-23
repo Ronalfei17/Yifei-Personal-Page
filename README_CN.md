@@ -2,6 +2,10 @@
 
 ---
 
+<p align="center">
+  <img src="assets/photo.png" width="200" alt="刘逸飞" />
+</p>
+
 # 你好，我是刘逸飞 (Yifei Liu) 👋
 
 > **布里斯托大学 沉浸式技术（虚拟和增强现实）硕士在读**
@@ -31,7 +35,7 @@
 * **Shape Lab（李瑞辉教授）：** 自大二起聚焦 3D 点云补全，作为沉浸式技术的基础方向。
 * **经典课程：** 机器学习、计算机视觉 (CS231n)、计算机图形学 (GAMES101/104)。
 
-**技术栈** PyTorch, Unity, Python, C#, Meta XR SDK, Steam Audio.
+**技术栈** PyTorch, Unity, Python, Meta XR SDK
 
 ---
 

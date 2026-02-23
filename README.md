@@ -2,6 +2,10 @@
 
 ---
 
+<p align="center">
+  <img src="assets/photo.png" width="200" alt="Yifei Liu" />
+</p>
+
 # Hi there, I'm Yifei Liu (刘逸飞) 👋
 
 > **M.Sc. Student in Immersive Technologies（virtual and argumented reality) @ University of Bristol**
