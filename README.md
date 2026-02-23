@@ -11,7 +11,7 @@
 
 The experience is designed to be exploratory and educational, allowing users to engage with sound as a physical and spatial phenomenon rather than just passive background audio.
 
-<img src="images/Sonic_Playground_Inital.png" width="50%">
+<img src="Images/Sonic_Playground_Inital.png" width="50%">
 
 *Note: This project supports hand tracking and controller interaction on Meta Quest 3.*
 
@@ -26,7 +26,7 @@ The experience is designed to be exploratory and educational, allowing users to 
 
 **Feedback** When the user's voice frequency matches the natural frequency of the virtual wine glass, the glass vibrates intensely and eventually shatters.
 
-<img src="images/Sonic_Playground_Exhibt_1.png" width="50%">
+<img src="Images/Sonic_Playground_Exhibt_1.png" width="50%">
 
 ### ⛰️ Exhibit 2: Cave Acoustics
 **Concept** Demonstrates the contrast between open-air and enclosed environmental acoustics.
@@ -35,7 +35,7 @@ The experience is designed to be exploratory and educational, allowing users to 
 
 **Technology** Built using the **Steam Audio** plugin for HRTF spatialization and occlusion, providing a realistic sense of scale and depth.
 
-<img src="images/Sonic_Playground_Exhibt_2.png" width="50%">
+<img src="Images/Sonic_Playground_Exhibt_2.png" width="50%">
 
 ### 🔵 Exhibit 3: Material-Dependent Sound
 **Concept** Investigates how physical properties (mass, friction, and material) influence sound generation.
@@ -44,7 +44,7 @@ The experience is designed to be exploratory and educational, allowing users to 
 
 **Implementation** The audio pitch and volume are dynamically adjusted using `Mathf.Lerp` based on the real-time velocity and collision intensity of the objects.
 
-<img src="images/Sonic_Playground_Exhibt_3.png" width="50%">
+<img src="Images/Sonic_Playground_Exhibt_3.png" width="50%">
 
 ---
 
@@ -63,7 +63,7 @@ The experience is designed to be exploratory and educational, allowing users to 
 
 ## 4. Resources & Links
 * [📺 Watch Project Demo on Bilibili](https://www.bilibili.com/video/BV1KJFvz4ERD)
-* [📄 Download Detailed Design Document (PDF)](Immersive%20audio.pdf)
+* [📄 Download Detailed Design Document (PDF)](Immersive_Audio.pdf)
 
 ---
 *© 2025 Sonic Playground Development Team*
