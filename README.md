@@ -1,3 +1,7 @@
+[English](README.md) | [中文](README_CN.md)
+
+---
+
 # Sonic Playground: Immersive Audio Design Project
 
 **Project Lead:** Yifei Liu, Pranavv Jothinathan, Suhang Liu, Skyler Sun  
