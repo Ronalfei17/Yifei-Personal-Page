@@ -11,8 +11,8 @@ Structure:
 
 Interests:
 
-1. Immersive Video
-2. XR Interaction
-3. World Models
+1. Multimodal VR Systems
+2. Interaction in Mixed Reality
+3. Generative AI in XR Systems
 
 Deploy by uploading every file in this folder to the root of a GitHub Pages repository.
